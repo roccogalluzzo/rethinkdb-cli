@@ -1,12 +1,12 @@
 # Rethinkdb Command Line Interface
 
-WIP: A cli for rethinkdb written in ruby. Stay tuned.
+A cli for rethinkdb written in ruby.
 
 At moment there a very simply version, to try:
 
-1. Install the gem
+1. Install the gem `gem install rethinkdb-cli`
 2. Run `rethinkdb-cli`
-3. Use `$c` variable to send requests to Rethinkdb server
+3. Use `r` to access rethinkdb database
 
 ## Contributing
 
